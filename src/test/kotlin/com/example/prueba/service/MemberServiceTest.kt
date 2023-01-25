@@ -20,9 +20,9 @@ class MemberServiceTest {
 
     val memberMock = Member().apply {
         id = 1
-        fullname = "01506825334"
-        email = "Steven"
-        age = 18
+        fullname = "0107598039"
+        email = "Bruno"
+        age = 19
     }
 
         @Test
