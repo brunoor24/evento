@@ -20,9 +20,9 @@ class EventServiceTest {
 
     val eventMock = Event().apply {
         id = 1
-        description = "01506825334"
-        startDate = "2021-08-11"
-        endDate = "2021-09-12"
+        description = "0107598039"
+        startDate = "2022-07-10"
+        endDate = "2022-09-11"
         totalAttendees=55
         city="Cuenca"
     }
